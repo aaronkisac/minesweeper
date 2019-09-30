@@ -1,0 +1,16 @@
+
+  const urls = [
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/0.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/1.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/2.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/3.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/4.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/5.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/6.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/7.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/8.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/bomb.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/facingDown.png',
+    'https://raw.githubusercontent.com/pardahlman/minesweeper/master/Images/flagged.png',
+  ];
+  setImagesContainer(urls);
